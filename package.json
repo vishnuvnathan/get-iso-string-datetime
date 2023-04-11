@@ -1,0 +1,11 @@
+{
+  "name": "get-iso-string-datetime",
+  "version": "1.0.0",
+  "description": "A package returns datetime from iso string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishnuvnathan",
+  "license": "ISC"
+}

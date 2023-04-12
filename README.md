@@ -1,6 +1,6 @@
 # get-iso-string-datetime
 
-A Node.js package for converting ISO string datetime to JavaScript Date objects.
+A Node.js package for converting ISO string datetime to datetime string.
 Installation
 You can install get-iso-string-datetime using npm:
 
